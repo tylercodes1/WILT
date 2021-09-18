@@ -1,3 +1,7 @@
-export default function Page({}) {
-  return <main></main>
+export default function EnterPage({}) {
+  return (
+    <main>
+      <h1>Sign Up</h1>
+    </main>
+  )
 }
